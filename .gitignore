@@ -2,4 +2,4 @@
 /vendor
 /.idea
 
-config.js
+config.js.dist

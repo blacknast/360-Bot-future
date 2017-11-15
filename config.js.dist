@@ -1,3 +1,0 @@
-module.export = {
-      token: "discord_token_here"
-}
